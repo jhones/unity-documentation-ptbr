@@ -181,12 +181,12 @@ sidebar:
         -   url: unitydoc-versions.html
             title: Versões da Documentação
             order: 500
-            #category: Manual do Usuário 2023.2 (beta)
+            category: Manual do Usuário 2023.2 (beta)
         # Example remote URL
         -   url: unitydoc-terms-of-use.html
             title: Termos de Uso
             order: 510
-            #category: Manual do Usuário 2023.2 (beta)
+            category: Manual do Usuário 2023.2 (beta)
 
 # BADGES
 # Feature that allows to display badges into the footer https://shields.io image html and url
