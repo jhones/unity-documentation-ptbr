@@ -60,15 +60,16 @@ Esta documentação está congelada - não a corrigimos, atualizamos ou republic
 
 **Documentação da Unity 4**
 
-Versão 4.6: [docs.unity3d.com/460](https://docs.unity3d.com/460)
-Versão 4.5: [docs.unity3d.com/450](https://docs.unity3d.com/450)
-Versão 4.3: [docs.unity3d.com/430](https://docs.unity3d.com/430)
-Versão 4.2: [docs.unity3d.com/420](https://docs.unity3d.com/420)
-Versão 4.1: [docs.unity3d.com/410](https://docs.unity3d.com/410)
-Versão 4.0: [docs.unity3d.com/400](https://docs.unity3d.com/400)
+* Versão 4.6: [docs.unity3d.com/460](https://docs.unity3d.com/460)
+* Versão 4.5: [docs.unity3d.com/450](https://docs.unity3d.com/450)
+* Versão 4.3: [docs.unity3d.com/430](https://docs.unity3d.com/430)
+* Versão 4.2: [docs.unity3d.com/420](https://docs.unity3d.com/420)
+* Versão 4.1: [docs.unity3d.com/410](https://docs.unity3d.com/410)
+* Versão 4.0: [docs.unity3d.com/400](https://docs.unity3d.com/400)
 
 **Documentação da Unity 3**
-Versão 3.5.5: [docs.unity3d.com/355](https://docs.unity3d.com/355)
-Versão 3.5.3: [docs.unity3d.com/353](https://docs.unity3d.com/353)
-Versão 3.5.2: [docs.unity3d.com/352](https://docs.unity3d.com/352)
-Versão 3.5.1: [docs.unity3d.com/351](https://docs.unity3d.com/351)
+
+* Versão 3.5.5: [docs.unity3d.com/355](https://docs.unity3d.com/355)
+* Versão 3.5.3: [docs.unity3d.com/353](https://docs.unity3d.com/353)
+* Versão 3.5.2: [docs.unity3d.com/352](https://docs.unity3d.com/352)
+* Versão 3.5.1: [docs.unity3d.com/351](https://docs.unity3d.com/351)
