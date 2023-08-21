@@ -6,6 +6,8 @@ keywords: []
 permalink: unitydoc-terms-of-use.html
 category: Manual do Usuário 2023.2 (beta)
 sidebar: sidebar
+toc: true
+order: 100
 ---
 
 Trechos de código no Manual do Editor da Unity e na Referência da API de Scripting da Unity são licenciados sob a Licença Companheira da Unity para projetos dependentes da Unity (consulte [https://unity3d.com/legal/licenses/Unity_Companion_License](https://unity3d.com/legal/licenses/Unity_Companion_License)). A menos que expressamente fornecido de outra forma, o Software sob esta licença é disponibilizado estritamente "COMO ESTÁ", SEM GARANTIA DE QUALQUER TIPO, EXPRESSA OU IMPLÍCITA. Por favor, reveja a licença para obter detalhes sobre esses e outros termos e condições. Todas as outras informações no Manual da Unity e na Referência da API de Scripting da Unity são licenciadas sob a Licença Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND).
