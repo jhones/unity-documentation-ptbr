@@ -1,8 +1,8 @@
 ---
-title: Termos de Uso
-summary: Termos de uso da documentação da Unity
-tags: [versoes documentacaounity]
-keywords: notes, tips, cautions, warnings, admonitions
+title: "Termos de Uso"
+summary: "Termos de uso da documentação da Unity."
+tags: []
+keywords: []
 permalink: unitydoc-terms-of-use.html
 category: Manual do Usuário 2023.2 (beta)
 sidebar: sidebar

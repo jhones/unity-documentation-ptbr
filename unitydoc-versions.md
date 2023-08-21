@@ -1,8 +1,8 @@
 ---
-title: Versões da Documentação
-summary: Versões da documentação da Unity
-tags: [versoes documentacaounity]
-keywords: notes, tips, cautions, warnings, admonitions
+title: "Versões da Documentação"
+summary: "Versões da documentação da Unity."
+tags: []
+keywords: []
 permalink: unitydoc-versions.html
 category: Manual do Usuário 2023.2 (beta)
 sidebar: sidebar
