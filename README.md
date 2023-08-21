@@ -1,18 +1,13 @@
 # Documentação da Unity
 
-**A Jekyll documentation theme with built-in search and playground**
+**Use o Editor da Unity para criar jogos, aplicativos e experiências 2D e 3D. Faça o download do Editor em unity3d.com.**
 
-[Documentation](https://olivier3lanc.github.io/Jekyll-LibDoc/) | 
-[Installation](https://olivier3lanc.github.io/Jekyll-LibDoc/libdoc-install.html) | 
-[Configuration](https://olivier3lanc.github.io/Jekyll-LibDoc/libdoc-config.html)
+**O Manual do Usuário da Unity ajuda você a aprender como usar o Editor da Unity e seus serviços associados. Você pode lê-lo do início ao fim ou usá-lo como referência.**
 
-LibDoc is a Jekyll theme that was crafted to easily and quickly get properly designed documentation especially for CSS and Javascript libraries. It comes with a [built-in playground](https://olivier3lanc.github.io/Jekyll-LibDoc/libdoc-playground.html) and local search engine.
+**Se esta for a primeira vez que você está usando a Unity, dê uma olhada na documentação introdutória sobre Como Trabalhar com a Unity e veja os Tutoriais da Unity.**
 
-[![pages-build-deployment](https://github.com/olivier3lanc/Jekyll-LibDoc/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/olivier3lanc/Jekyll-LibDoc/actions/workflows/pages/pages-build-deployment) [![Jekyll Themes Shield](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com) 
 
-![LibDoc layout](https://github.com/olivier3lanc/Jekyll-LibDoc/raw/develop/assets/libdoc/img/libdoc-layout-page-split.webp)
-
-## Showcase
+## Manual do Usuário da Unity 2023.2"
 
 The following documentation projects use LibDoc:
 
