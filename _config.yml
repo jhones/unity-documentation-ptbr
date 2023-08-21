@@ -179,7 +179,7 @@ sidebar:
         #     category: Features
         # Example URL
         -   url: unitydoc-versions.html
-            title: Scroll Btween
+            title: Versões da Documentação
             order: 500
             category: Manual do Usuário 2023.2 (beta)
         # Example remote URL
