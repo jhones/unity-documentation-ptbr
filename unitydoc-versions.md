@@ -1,6 +1,6 @@
 ---
 title: Versões da Documentação
-summary: "Versões da documentação da Unity."
+summary: Versões da documentação da Unity
 tags: [versoes documentacaounity]
 keywords: notes, tips, cautions, warnings, admonitions
 last_updated: 21/08/2023
