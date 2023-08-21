@@ -7,7 +7,7 @@
 **Se esta for a primeira vez que você está usando a Unity, dê uma olhada na documentação introdutória sobre Como Trabalhar com a Unity e veja os Tutoriais da Unity.**
 
 
-## Manual do Usuário da Unity 2023.2"
+## Manual do Usuário da Unity 2023.2 (beta)"
 
 The following documentation projects use LibDoc:
 

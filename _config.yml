@@ -181,15 +181,7 @@ sidebar:
         -   url: https://olivier3lanc.github.io/Scroll-Btween/
             title: Scroll Btween
             order: 500
-            category: Showcase
-        -   url: https://olivier3lanc.github.io/Scroll-Frames/
-            title: Scroll Frames
-            order: 500
-            category: Showcase
-        -   url: https://olivier3lanc.github.io/seemap/
-            title: SEEMAP
-            order: 500
-            category: Showcase
+            category: Manual do Usuário da Unity 2023.2 (beta)
         # Example remote URL
         -   url: https://pages.github.com
             title: Github Pages
