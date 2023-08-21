@@ -6,6 +6,11 @@ permalink: unitydoc-user-manual.html
 category: Manual do Usuário 2023.2 (beta)
 sidebar: sidebar
 order: 10
+toc:
+  - title: Manual do Usuário 2023.2 (beta)
+    subfolderitems:
+      - page: Versões da Documentação
+      - page: Documentação do Instalador (Offline)
 ---
 
 ## Versões da Documentação
