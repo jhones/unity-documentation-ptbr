@@ -1,4 +1,11 @@
 ---
+title: Versões da Documentação
+tags: [versoes documentacaounity]
+keywords: notes, tips, cautions, warnings, admonitions
+last_updated: 21/08/2023
+summary: "You can insert notes, tips, warnings, and important alerts in your content."
+sidebar: inherit
+permalink: unitydoc-versions.html
 ---
 ## Versões da Documentação
 

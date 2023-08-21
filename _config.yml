@@ -182,13 +182,11 @@ sidebar:
             title: Versões da Documentação
             order: 500
             category: Manual do Usuário 2023.2 (beta)
-            iframe_mode: true
         # Example remote URL
         -   url: unitydoc-terms-of-use.html
             title: Termos de Uso
             order: 510
             category: Manual do Usuário 2023.2 (beta)
-            iframe_mode: true
 
 # BADGES
 # Feature that allows to display badges into the footer https://shields.io image html and url
@@ -292,7 +290,7 @@ prism:
         #- bro
         #- bsl
         #- c
-        #- csharp
+        - csharp
         #- cpp
         #- cfscript
         #- chaiscript
