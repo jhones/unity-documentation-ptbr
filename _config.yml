@@ -183,10 +183,10 @@ sidebar:
             order: 500
             category: Manual do Usuário 2023.2 (beta)
         # Example remote URL
-        -   url: https://pages.github.com
-            title: Github Pages
-            order: 510
-            category: External resources
+        -   url: unitydoc-terms-of-use.html
+            title: Termos de Uso
+            order: 501
+            category: Manual do Usuário 2023.2 (beta)
         -   url: https://jekyllrb.com
             title: Jekyll
             order: 510
