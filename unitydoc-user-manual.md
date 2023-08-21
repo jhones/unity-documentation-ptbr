@@ -9,11 +9,11 @@ order: 10
 toc:
   - title: Manual do Usuário 2023.2 (beta)
     subfolderitems:
-      - page: [Versões da Documentação](#Versões da Documentação)
+      - page: (#versoes-da-documentacao)
       - page: Documentação do Instalador (Offline)
 ---
 
-## Versões da Documentação
+## [Versões da Documentação](#versoes-da-documentacao)
 
 A documentação da Unity é composta pelo Manual do Usuário da Unity e a Referência da API de Scripting da Unity.
 
