@@ -93,7 +93,7 @@ playground:
         
         # PLAYGROUND AUTHOR NAME
         # Sets the name of the author for the playground. Default is empty.
-        author: 
+        author: Jhones S. Clementino
 
         # PLAYGROUND THEME COLOR
         # Theme color metadata used in some browsers like Chrome that applies this color on browser address bar.
@@ -110,7 +110,7 @@ playground:
 metadata:
     # LANGUAGE
     # Change the language of the playground, default is en
-    lang: en
+    lang: pt_BR
 
     # CACHE
     # Enable or not browser cache for the playground
@@ -130,7 +130,7 @@ metadata:
     
     # AUTHOR NAME
     # Name of the author of the site/project, used into various places of the theme like footer. Default is empty
-    author: 
+    author: Jhones S. Clementino
 
     # THEME COLOR
     # Theme color metadata used in some browsers like Chrome that applies this color on browser address bar.
@@ -182,11 +182,13 @@ sidebar:
             title: Versões da Documentação
             order: 500
             category: Manual do Usuário 2023.2 (beta)
+            iframe_mode: true
         # Example remote URL
         -   url: unitydoc-terms-of-use.html
             title: Termos de Uso
             order: 510
             category: Manual do Usuário 2023.2 (beta)
+            iframe_mode: true
 
 # BADGES
 # Feature that allows to display badges into the footer https://shields.io image html and url
