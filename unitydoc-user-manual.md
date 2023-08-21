@@ -9,7 +9,7 @@ order: 10
 toc:
   - title: Manual do Usuário 2023.2 (beta)
     subfolderitems:
-      - page: Versões da Documentação
+      - page: [Versões da Documentação](#Versões da Documentação)
       - page: Documentação do Instalador (Offline)
 ---
 
