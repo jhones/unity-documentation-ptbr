@@ -6,14 +6,11 @@ permalink: unitydoc-user-manual.html
 category: Manual do Usuário 2023.2 (beta)
 sidebar: sidebar
 order: 10
-toc:
-  - title: Manual do Usuário 2023.2 (beta)
-    subfolderitems:
-      - page: (#versoes-da-documentacao)
-      - page: Documentação do Instalador (Offline)
 ---
 
-## [Versões da Documentação](#versoes-da-documentacao)
+{:toc}
+
+# Versões da Documentação
 
 A documentação da Unity é composta pelo Manual do Usuário da Unity e a Referência da API de Scripting da Unity.
 
@@ -23,14 +20,14 @@ Com cada lançamento da Unity, a documentação da Unity é atualizada para refl
 
 A versão da documentação que acompanha o lançamento completo atual da Unity está sempre disponível online em [docs.unity3d.com](https://docs.unity3d.com/).
 
-### Documentação do Instalador (Offline)
+## Documentação do Instalador (Offline)
 
 Além de usar a documentação online, você pode instalar uma cópia local da documentação (offline) quando instalar o software Unity, usando:
 
 * O [Assistente de Download da Unity](https://docs.unity3d.com/2023.2/Documentation/Manual/InstallingUnity.html)
 * O [Hub da Unity](https://docs.unity3d.com/hub/manual/index.html)
 
-### Atualizações da Documentação
+## Atualizações da Documentação
 
 Republicamos a documentação online para a versão completa atual da Unity regularmente, com correções e conteúdo ausente. (Você pode ver a versão publicada da documentação na parte inferior de cada página.)
 Se houver um lançamento beta atual da Unity, também atualizamos regularmente a documentação pública beta atual com correções, conteúdo ausente e atualizações de recursos.
@@ -42,7 +39,7 @@ No entanto, observe que não atualizamos e republicamos:
 
 Se você precisa da versão mais recente da documentação offline, você pode baixá-la fora do instalador. Consulte a página de Documentação Offline para obter detalhes.
 
-### Qual Versão da Documentação Usar
+## Qual Versão da Documentação Usar
 
 A maioria das pessoas usa a versão completa mais recente da Unity e, portanto, utiliza a documentação em [docs.unity3d.com](https://docs.unity3d.com/).
 
@@ -50,7 +47,7 @@ Algumas pessoas precisam usar versões mais antigas da Unity. Isso pode ser o ca
 
 Se você estiver usando uma versão mais antiga da Unity, a documentação do instalador (offline) corresponde a essa versão da Unity. No entanto, se você optar por não instalar a documentação local ou desejar garantir que possa acessar a versão mais recente da documentação publicada, você pode acessar versões anteriores da documentação da Unity online. (Veja a lista abaixo.)
 
-### Documentação Legada
+## Documentação Legada
 
 Documentação para versões da Unity que não são mais a versão completa atual ou versão beta atual da Unity.
 
@@ -89,7 +86,7 @@ Esta documentação está congelada - não a corrigimos, atualizamos ou republic
 * Versão 3.5.2: [docs.unity3d.com/352](https://docs.unity3d.com/352)
 * Versão 3.5.1: [docs.unity3d.com/351](https://docs.unity3d.com/351)
 
-## Termos de Uso
+# Termos de Uso
 
 Trechos de código no Manual do Editor da Unity e na Referência da API de Scripting da Unity são licenciados sob a Licença Companheira da Unity para projetos dependentes da Unity (consulte [https://unity3d.com/legal/licenses/Unity_Companion_License](https://unity3d.com/legal/licenses/Unity_Companion_License)). A menos que expressamente fornecido de outra forma, o Software sob esta licença é disponibilizado estritamente "COMO ESTÁ", SEM GARANTIA DE QUALQUER TIPO, EXPRESSA OU IMPLÍCITA. Por favor, reveja a licença para obter detalhes sobre esses e outros termos e condições. Todas as outras informações no Manual da Unity e na Referência da API de Scripting da Unity são licenciadas sob a Licença Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND).
 

@@ -11,14 +11,14 @@ description: >- # Description of the docs. (>- means to ignore newlines until ne
 #permalink: /:path/:basename/:output_ext
 #destination: ../your/new/path # Build relative path destination. The destination directory e.g. /blog
 #keep_files: [cache]
-markdown: kramdown
+#markdown: kramdown
 defaults:
   -
     values:
       layout: libdoc/page
 kramdown:
     syntax_highlighter_opts:
-        disable: true
+        disable: false
 sass:
     style: compressed
 # exclude: ['/assets/libdoc/ajax/playground-settings.html']
