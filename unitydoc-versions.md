@@ -3,9 +3,9 @@ title: Versões da Documentação
 summary: Versões da documentação da Unity
 tags: [versoes documentacaounity]
 keywords: notes, tips, cautions, warnings, admonitions
-last_updated: 21/08/2023
 permalink: unitydoc-versions.html
 category: Manual do Usuário 2023.2 (beta)
+sidebar: sidebar
 ---
 
 A documentação da Unity é composta pelo Manual do Usuário da Unity e a Referência da API de Scripting da Unity.
