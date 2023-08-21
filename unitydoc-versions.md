@@ -1,3 +1,14 @@
+---
+title: Versões da Documentação
+tags: [versoes documentacaounity]
+keywords: notes, tips, cautions, warnings, admonitions
+last_updated: 21/08/2023
+summary: "You can insert notes, tips, warnings, and important alerts in your content."
+sidebar: inherit
+permalink: unitydoc-versions.html
+category: Manual do Usuário 2023.2 (beta)
+---
+
 A documentação da Unity é composta pelo Manual do Usuário da Unity e a Referência da API de Scripting da Unity.
 
 À medida que continuamente aprimoramos a Unity (ou seja, o Editor e o motor), adicionamos novos recursos, melhoramos recursos existentes e às vezes removemos recursos antigos.
