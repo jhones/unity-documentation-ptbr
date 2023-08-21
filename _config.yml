@@ -178,7 +178,7 @@ sidebar:
         #     iframe_mode: true
         #     category: Features
         # Example URL
-        -   url: unitydoc-versions.md
+        -   url: unitydoc-versions.html
             title: Scroll Btween
             order: 500
             category: Manual do Usuário 2023.2 (beta)
