@@ -73,7 +73,7 @@ playground:
     metadata:
         # PLAYGROUND LANGUAGE
         # Change the language of the playground, default is en
-        lang: en
+        lang: pt_BR
 
         # PLAYGROUND CACHE
         # Enable or not browser cache for the playground
@@ -178,7 +178,7 @@ sidebar:
         #     iframe_mode: true
         #     category: Features
         # Example URL
-        -   url: unitydoc-versions.md
+        -   url: https://github.com/jhones/unity-documentation-ptbr/unitydoc-versions.md
             title: Scroll Btween
             order: 500
             category: Manual do Usuário 2023.2 (beta)
