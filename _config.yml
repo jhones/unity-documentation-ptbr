@@ -5,14 +5,13 @@
 
 title: Documentação da Unity # title of the documentation
 description: >- # Description of the docs. (>- means to ignore newlines until next param)
-  Documentação da Unity traduzida para o PTBR
 # IMPORTANT: on Github Pages deploys, url and baseurl must be commented or set to proper settings, otherwise links and resources URL are wrong
 # url: http://192.168.1.54 # the base hostname & protocol for your site, e.g. http://example.com
 # baseurl: /Jekyll-LibDoc/_site # the subpath of your site, e.g. /blog
 #permalink: /:path/:basename/:output_ext
 #destination: ../your/new/path # Build relative path destination. The destination directory e.g. /blog
 #keep_files: [cache]
-#markdown: kramdown
+markdown: kramdown
 defaults:
   -
     values:
@@ -178,15 +177,15 @@ sidebar:
         #     iframe_mode: true
         #     category: Features
         # Example URL
-        -   url: unitydoc-versions.html
-            title: Versões da Documentação
-            order: 500
-            category: Manual do Usuário 2023.2 (beta)
+        # -   url: unitydoc-versions.html
+        #     title: Versões da Documentação
+        #     order: 500
+        #     category: Manual do Usuário 2023.2 (beta)
         # Example remote URL
-        -   url: unitydoc-terms-of-use.html
-            title: Termos de Uso
-            order: 510
-            category: Manual do Usuário 2023.2 (beta)
+        # -   url: unitydoc-terms-of-use.html
+        #     title: Termos de Uso
+        #     order: 510
+        #     category: Manual do Usuário 2023.2 (beta)
 
 # BADGES
 # Feature that allows to display badges into the footer https://shields.io image html and url
