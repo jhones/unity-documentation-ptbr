@@ -1,6 +1,6 @@
 ---
 title: Pacotes e Conjuntos de Recursos
-category: Manual da Unity
+category: Pacotes e Conjuntos de Recursos
 order: 11
 permalink: pacotes-e-conjuntos-de-recursos.html
 ---
