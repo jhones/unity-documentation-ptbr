@@ -8,6 +8,9 @@ order: 12
 permalink: pacotes-lancados.html
 ---
 
+* 
+{:toc}
+
 Pacotes lançados são pacotes que passaram por testes com uma versão específica do Editor Unity, bem como com todos os outros pacotes lançados para essa versão. O pacote também possui documentação completa e precisa, um registro de alterações atualizado e uma licença válida.
 
 Pacotes que a Unity verificou como compatíveis com esta versão do Editor Unity exibem o indicador ![](/assets/libdoc/img/iconReleased.png) na visualização de detalhes. A janela do Gerenciador de Pacotes também exibe o indicador ![](/assets/libdoc/img/iconRel.png) ao lado dos pacotes lançados em sua visualização de lista. Para obter mais informações sobre o ciclo de vida dos pacotes, consulte os estados e o ciclo de vida dos pacotes.
