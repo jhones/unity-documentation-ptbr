@@ -3,6 +3,22 @@ title: Pacotes e Conjuntos de Recursos
 category: Manual da Unity
 order: 11
 permalink: pacotes-e-conjuntos-de-recursos.html
+toc:
+  - title: Group 1
+    subfolderitems:
+      - page: Thing 1
+      - page: Thing 2
+      - page: Thing 3
+  - title: Group 2
+    subfolderitems:
+      - page: Piece 1
+      - page: Piece 2
+      - page: Piece 3
+  - title: Group 3
+    subfolderitems:
+      - page: Widget 1
+      - page: Widget 2 it's
+      - page: Widget 3
 ---
 
 Um pacote contém recursos para atender às diversas necessidades do seu projeto. Isso pode incluir recursos essenciais da Unity que são instalados junto com o Editor, ou outros pacotes que você pode instalar conforme necessário.
