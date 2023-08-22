@@ -21,11 +21,11 @@ Os pacotes que aparecem nesta lista são seguros para uso em produção, porque 
 
 Clique em qualquer um dos seguintes links para ver a documentação do pacote:
 
-## 2D Animation: [com.unity.2d.animation]()![](/assets/libdoc/img/iconRel.png) 
-## 2D Aseprite Importer: [com.unity.2d.aseprite]()![](/assets/libdoc/img/iconRel.png) 
-## 2D Pixel Perfect: [com.unity.2d.pixel-perfect]()![](/assets/libdoc/img/iconRel.png) 
-#### 2D PSD Importer: [com.unity.2d.psdimporter]()![](/assets/libdoc/img/iconRel.png) 
-#### 2D SpriteShape: [com.unity.2d.spriteshape]()![](/assets/libdoc/img/iconRel.png) 
+* #### 2D Animation: [com.unity.2d.animation]()![](/assets/libdoc/img/iconRel.png) 
+* #### 2D Aseprite Importer: [com.unity.2d.aseprite]()![](/assets/libdoc/img/iconRel.png) 
+* #### 2D Pixel Perfect: [com.unity.2d.pixel-perfect]()![](/assets/libdoc/img/iconRel.png) 
+* #### 2D PSD Importer: [com.unity.2d.psdimporter]()![](/assets/libdoc/img/iconRel.png) 
+* #### 2D SpriteShape: [com.unity.2d.spriteshape]()![](/assets/libdoc/img/iconRel.png) 
 * 2D Tilemap Extras: [com.unity.2d.tilemap.extras]()![](/assets/libdoc/img/iconRel.png) 
 * Adaptive Performance: [com.unity.adaptiveperformance]()![](/assets/libdoc/img/iconRel.png) 
 * Addressables: [com.unity.addressables]()![](/assets/libdoc/img/iconRel.png) 
