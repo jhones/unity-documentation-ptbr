@@ -8,9 +8,7 @@ sidebar: sidebar
 order: 10
 toc: true
 ---
-
-*
-{:toc}
+{:.no_toc}
 
 # Versões da Documentação
 
