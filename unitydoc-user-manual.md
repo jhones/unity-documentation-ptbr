@@ -4,7 +4,7 @@ category: Manual do Usuário 2023.2 (beta)
 order: 10
 ---
 
-* toc
+* 
 {:toc}
 # Versões da Documentação
 
