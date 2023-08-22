@@ -1,11 +1,11 @@
 ---
 title: Pacotes Lançados
-category: Pacotes e Conuuntos de Recursos
+category: Pacotes e Conjuntos de Recursos
 order: 12
 permalink: pacotes-lancados.html
 ---
 
- *
+*
 {:toc}
 
 Pacotes lançados são pacotes que passaram por testes com uma versão específica do Editor Unity, bem como com todos os outros pacotes lançados para essa versão. O pacote também possui documentação completa e precisa, um registro de alterações atualizado e uma licença válida.
