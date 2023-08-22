@@ -1,9 +1,6 @@
 ---
 title: Pacotes Lançados
-categories: [
-    Manual da Unity
-    Pacotes e Conuuntos de Recursos
-]
+category: Pacotes e Conuuntos de Recursos
 order: 12
 permalink: pacotes-lancados.html
 ---
