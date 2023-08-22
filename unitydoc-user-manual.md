@@ -7,7 +7,6 @@ auto_ids: true
 ---
 
 {:auto_ids}
-{:toc}
 
 # Versões da Documentação
 
