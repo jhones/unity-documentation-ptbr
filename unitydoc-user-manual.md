@@ -6,8 +6,10 @@ permalink: unitydoc-user-manual.html
 category: Manual do Usuário 2023.2 (beta)
 sidebar: sidebar
 order: 10
+auto
 ---
 
+{:auto_ids}
 {:toc}
 
 # Versões da Documentação
