@@ -9,7 +9,7 @@ Um pacote contém recursos para atender às diversas necessidades do seu projeto
 
 | Tópico | Descrição |
 |-------|--------|
-| [Pacotes lançados, Pacotes de pré-lançamento]() | Visualize as listas de pacotes suportados para esta versão do Editor Unity e saiba sobre os critérios que um pacote deve atender para estar nesses estados. |
+| [Pacotes lançados](), [Pacotes de pré-lançamento]() | Visualize as listas de pacotes suportados para esta versão do Editor Unity e saiba sobre os critérios que um pacote deve atender para estar nesses estados. |
 | [Candidatos a lançamento (Release candidates)]() | Saiba sobre os critérios que um pacote deve atender para ser um candidato a lançamento. |
 | [Pacotes principais]() | Visualize a lista de pacotes que estão vinculados a esta versão do Editor Unity. |
 | [Pacotes integrados]() | Visualize a lista de pacotes integrados, que você pode habilitar ou desabilitar para ajustar o tamanho da construção em tempo de execução. |
