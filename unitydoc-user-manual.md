@@ -1,6 +1,6 @@
 ---
 title: Manual do Usuário 2023.2 (beta)
-category: Manual do Usuário 2023.2 (beta)
+category: Manual da Unity
 order: 10
 ---
 
