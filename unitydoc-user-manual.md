@@ -1,12 +1,10 @@
 ---
 title: Manual do Usuário 2023.2 (beta)
 category: Manual do Usuário 2023.2 (beta)
-sidebar: sidebar
 order: 10
-auto_ids: true
 ---
 
-{:auto_ids}
+{:toc}
 
 # Versões da Documentação
 
