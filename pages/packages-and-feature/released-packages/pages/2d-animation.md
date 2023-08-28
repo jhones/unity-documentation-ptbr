@@ -1,6 +1,6 @@
 ---
 title: 2D Animation
-category: Pacotes e Conjuntos de Recursos
+category: Pacotes Lançados
 order: 12
 permalink: pacotes-lancados.html
 
