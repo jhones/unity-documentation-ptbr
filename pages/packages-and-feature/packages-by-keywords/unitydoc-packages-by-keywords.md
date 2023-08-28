@@ -1,7 +1,7 @@
 ---
 title: Pacotes por Palavras-Chave
 category: Pacotes e Conjuntos de Recursos
-order: 17
+order: 18
 permalink: pacotes-por-palavras-chave.html
 ---
 

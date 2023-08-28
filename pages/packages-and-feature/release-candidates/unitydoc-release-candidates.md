@@ -1,7 +1,7 @@
 ---
 title: Candidatos a Lançamento
 category: Pacotes e Conjuntos de Recursos
-order: 14
+order: 13
 permalink: candidatos-a-lancamento.html
 ---
 
