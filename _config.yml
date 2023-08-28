@@ -517,4 +517,5 @@ prism:
 # LIBDOC BACKLINK
 # Link powered by LibDoc - Uncomment to remove
 disable_powered_by_link: true
-
+plugins:
+- jekyll-menus
