@@ -1,9 +1,12 @@
 ---
 title: 2D Animation
-category: Pacotes Lançados
+category: Pacotes e Conjuntos de Recursos
 order: 12
-permalink: 2d-animation.html
-sub:
-    - title: 2D Animation
-    - href: pages/2d-animation.md
+permalink: pacotes-lancados.html
+toc:
+  - title: Pacotes Lançados
+    subfolderitems:
+      - page: 2D Animation
+      - page: Thing 2
+      - page: Thing 3
 ---
