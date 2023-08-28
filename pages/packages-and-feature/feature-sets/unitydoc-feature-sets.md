@@ -1,7 +1,7 @@
 ---
 title: Criando Pacotes Personalizados
 category: Pacotes e Conjuntos de Recursos
-order: 22
+order: 21
 permalink: criando-pacotes-personalizados.html
 ---
 
