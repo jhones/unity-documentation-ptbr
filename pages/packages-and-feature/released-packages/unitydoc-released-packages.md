@@ -15,7 +15,7 @@ Os pacotes que aparecem nesta lista são seguros para uso em produção, porque 
 
 Clique em qualquer um dos seguintes links para ver a documentação do pacote:
 
-* 2D Animation: [com.unity.2d.animation]() ![](https://jhones.github.io/unity-documentation-ptbr/assets/libdoc/img/iconRel.png) 
+* 2D Animation: [com.unity.2d.animation](pages/2d-animation.md) ![](https://jhones.github.io/unity-documentation-ptbr/assets/libdoc/img/iconRel.png) 
 * 2D Aseprite Importer: [com.unity.2d.aseprite]() ![](https://jhones.github.io/unity-documentation-ptbr/assets/libdoc/img/iconRel.png) 
 * 2D Pixel Perfect: [com.unity.2d.pixel-perfect]() ![](https://jhones.github.io/unity-documentation-ptbr/assets/libdoc/img/iconRel.png) 
 * 2D PSD Importer: [com.unity.2d.psdimporter]() ![](https://jhones.github.io/unity-documentation-ptbr/assets/libdoc/img/iconRel.png) 
