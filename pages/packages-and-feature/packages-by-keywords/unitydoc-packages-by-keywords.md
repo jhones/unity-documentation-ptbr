@@ -59,7 +59,7 @@ Os pacotes contêm as seguintes palavras-chave:
 | cluster | [Adaptive Performance]() |
 | clusterinfo | [Adaptive Performance]() |
 | collab | [Version Control]() |
-| collaborate [Version Control]() |
+| collaborate | [Version Control]() |
 | collaboration | [Version Control]() |
 | collections | [Collections]() |
 | collision	| [Cinemachine]() |
